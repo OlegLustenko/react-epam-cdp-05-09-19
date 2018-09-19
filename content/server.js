@@ -72,8 +72,6 @@ app.use(
     }));
 
     ctx.body = parsedResult;
-    // await sleep(2000);
-    // ctx.body = users;
   }),
 );
 
