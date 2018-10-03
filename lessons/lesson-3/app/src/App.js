@@ -69,7 +69,7 @@ export class AppComponent extends Component {
 
 const selectCounter = (state) => {
   return state.counterReducer.counter
-}
+};
 
 const mapStateToProps = (state) => {
   console.log(state);
@@ -81,7 +81,6 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = {
   incrementCounter: incrementCounter,
   incrementAsync,
-
 };
 
 export const App = connect(mapStateToProps, mapDispatchToProps)(AppComponent);

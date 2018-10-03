@@ -2,14 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee52b4a-3d39-47d3-badd-7b6cb8401ac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson-3/app/src/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson-3/app/src/features/App-with-increment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson-3/app/src/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson-3/redux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson-3/redux/redux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/generate-people.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/grid-body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/infinity-table-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/api/users/users-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/filter-users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/get-users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/show-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/contacts-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/actions/filter-by-name-anna.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/hocs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/hocs/with-loading-spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/hocs/with-loading-spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/search-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/filter-text-reducer/filter-text-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/root-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/users-reducer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/users-reducer/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filter-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filtered-contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson-3/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson-3/app/src/App.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,19 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/redux.js">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/contacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1950">
-              <caret line="65" column="6" lean-forward="true" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+            <state relative-caret-position="483">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -47,22 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/features/App-with-increment.js">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/contacts-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            <state relative-caret-position="320">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -71,45 +78,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/registerServiceWorker.js">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/index.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/index.css">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filter-text.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/index.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/actions.js">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-contacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="39">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/logo.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/reducer.js">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filtered-contacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="620">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/index.html">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/filters.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="342">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/actions/filter-by-name-anna.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/search-bar.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -122,19 +153,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_i</find>
+      <find>total</find>
+      <find>scrollable</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lessons/lesson-1/app/src/index.js" />
-        <option value="$PROJECT_DIR$/lessons/lesson-1/app/src/react-props.js" />
-        <option value="$PROJECT_DIR$/lessons/lesson-1/app/src/App.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/lessons/lesson-2/app/package.json" />
-        <option value="$PROJECT_DIR$/lessons/lesson-2/app/lifecycle-hooks/Users.js" />
-        <option value="$PROJECT_DIR$/lessons/lesson-2/app/lifecycle-hooks/users.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-2/app/lifecycle-hooks/users-list.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-2/app/lifecycle-hooks/users-app.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-2/app/src/App.css" />
@@ -156,16 +187,36 @@
         <option value="$PROJECT_DIR$/lessons/lesson-2/app/src/App.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-2/app/src/react-router/router-page.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/content/server.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/app/public/index.html" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/redux/index.html" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/reducers.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/features/App-with-increment.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/reducer.js" />
-        <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/App.js" />
-        <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/index.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/actions.js" />
         <option value="$PROJECT_DIR$/lessons/lesson-3/redux/redux.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/index.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/public/index.html" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/main-infinity-table.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/generate-people.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/package.json" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/filtered-contacts-reducer/filtered-contacts-reducer.js" />
+        <option value="$PROJECT_DIR$/content/server.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/show-active.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/filters.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/users-reducer/users-reducer.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/actions/filter-by-name-anna.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/.babelrc" />
+        <option value="$PROJECT_DIR$/lessons/lesson-3/app/src/App.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/grid-body.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/infinity-table-app.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/App.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-contacts.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filter-text.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/contacts-list.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filtered-contacts.js" />
+        <option value="$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/contacts.js" />
       </list>
     </option>
   </component>
@@ -176,6 +227,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="690" />
+    <option name="y" value="168" />
     <option name="width" value="800" />
     <option name="height" value="600" />
   </component>
@@ -222,7 +275,20 @@
               <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -230,17 +296,31 @@
               <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="random-users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="random-users" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-epam-cdp-05-09-19" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-epam-cdp-05-09-19" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
-              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="random-users" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="random-users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +342,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
@@ -271,6 +351,7 @@
       <recent name="$PROJECT_DIR$/lessons/lesson-2/app/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lessons/lesson-4/app/src" />
       <recent name="$PROJECT_DIR$/lessons/lesson-2/app/src" />
     </key>
   </component>
@@ -300,18 +381,20 @@
       <workItem from="1536128218556" duration="3986000" />
       <workItem from="1536696697654" duration="4320000" />
       <workItem from="1536701362092" duration="13453000" />
-      <workItem from="1537308953996" duration="5738000" />
+      <workItem from="1537308953996" duration="6747000" />
+      <workItem from="1537476844338" duration="1584000" />
+      <workItem from="1537741198719" duration="413000" />
+      <workItem from="1537741679800" duration="13007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27523000" />
+    <option name="totallyTimeSpent" value="43536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49814814" visible="true" weight="0.11134904" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49814814" visible="true" weight="0.2821199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50185186" side_tool="true" weight="0.22083333" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,7 +407,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Bucklescript" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.36629668" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1382442" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,216 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-1/app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-1/app/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-1/app/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-1/app/src/react-props.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/lifecycle-hooks/users-app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/inversion-of-inheritance.js" />
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/lifecycle-hooks/users-list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/children-composition.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/render-props.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="29" column="5" selection-start-line="25" selection-start-column="31" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/composition.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/HOCExample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/components/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/components/search-bar.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/hoc-example.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#146#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/slots.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/page-content.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/components/contacts-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/lifecycle-hooks/users-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/react-router/router-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/lifecycle-hooks/users-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/HOC/LoadingHOC.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/ways-of-composition/inheritance-inversion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="995">
-          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -597,72 +470,360 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/logo.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/redux.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/registerServiceWorker.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/features/App-with-increment.js">
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/lifecycle-hooks/users-list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="65" column="6" lean-forward="true" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/HOC-example/HOCExample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/api/users/users-api.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="93" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filtered-users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-2/app/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/filtered-contacts-reducer/filtered-contacts-reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/filter-users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/show-active.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/actions/get-users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/users-reducer/users-reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/filter-text-reducer/filter-text-reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/features/App-with-increment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        <state relative-caret-position="825">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/actions.js">
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/app/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="327">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/index.html">
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/lesson-3/redux/redux.js">
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/grid-body.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        <state relative-caret-position="-191">
+          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!block;n#componentWillReceiveProps#0;n#GridBody#0" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/generate-people.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/infinity-table/infinity-table-app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="94" column="17" selection-start-line="89" selection-start-column="23" selection-end-line="94" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#InfinityTableApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/reducers/root-reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/random-users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts-list/contacts-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filter-text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/selectors/select-filtered-contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/filters/actions/filter-by-name-anna.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/search-bar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson-4/app/src/random-users/features/random-users/components/contacts/contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

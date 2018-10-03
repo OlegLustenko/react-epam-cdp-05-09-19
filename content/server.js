@@ -62,13 +62,14 @@ app.use(
 app.use(
   router.get('/users-random', async (ctx) => {
     const result = await axios(
-      'https://api.randomuser.me/?nat=us,gb&results=50',
+      'https://api.randomuser.me/?nat=us,gb&results=1000',
     );
 
-    const parsedResult = result.data.results.map((user) => ({
+    const parsedResult = result.data.results.map((user, index) => ({
       name: `${user.name.first} ${user.name.last}`,
       email: user.email,
       thumbnail: user.picture.thumbnail,
+      isActive: index % 2 === 0
     }));
 
     ctx.body = parsedResult;
